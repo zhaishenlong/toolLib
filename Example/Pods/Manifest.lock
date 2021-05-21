@@ -1,0 +1,16 @@
+PODS:
+  - toolLib (0.1.0)
+
+DEPENDENCIES:
+  - toolLib (from `../`)
+
+EXTERNAL SOURCES:
+  toolLib:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  toolLib: e2fe5c761ee3d7d38f79fe1c253f8ce2f16a4846
+
+PODFILE CHECKSUM: 94f3b019d7b8dc5af3f1fd907f8c940e7cdda3f8
+
+COCOAPODS: 1.8.3
